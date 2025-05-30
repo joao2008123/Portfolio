@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,0">
+    <link rel="Stylesheet" href= "style.css">
+    <title>Meu portfólio<title>
+</head>
+      <body>
+         <header>
+         <img scr="img/avatar-perfil.png" alt="avatar do João ">
+         <p>Eu sou João_</p>
+         <h1>Eu Estudo no José ferreira da Silva</h1>
+         <p>Sou Estudante do 2 ano do Ensino médio. Gosto de jogar no computador
+           e Gosto de aprender coisas sobre Programação e Gosto de tudo sobre computação!<p>
+           <p>Minhas habilidades</p>
+           <div>
